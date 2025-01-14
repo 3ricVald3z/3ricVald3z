@@ -10,7 +10,7 @@
     🐰 Art • 🍬 Sweet Tooth • Bird Lover 🐧
 </pre>
 <br><br>
-<img src="https://giffiles.alphacoders.com/212/212419.gif" height="25%" />
+<img src="https://giffiles.alphacoders.com/212/212419.gif" height="15%" />
 <br><br><br>
 
 [![](https://img.shields.io/badge/instagram-ff66ab)](https://www.instagram.com/3ric_vald3z/)
