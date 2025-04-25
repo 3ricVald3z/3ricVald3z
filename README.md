@@ -14,4 +14,7 @@
 <br><br><br>
 
 [![](https://img.shields.io/badge/twitter-0a66c2)](https://x.com/3ricVald3z)
+<a href="https://wigle.net">
+<img border="0" src="https://wigle.net/bi/gi4aeUe81XNSrEXqPhqRUQ.png">
+</a>
 </div>
