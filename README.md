@@ -13,6 +13,7 @@
 <img src="https://giffiles.alphacoders.com/212/212419.gif" height="10%"/>
 <br><br><br>
 
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/animation_n_t00ns_4_u)
 [![](https://img.shields.io/badge/twitter-0a66c2)](https://x.com/3ricVald3z)
 <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/gi4aeUe81XNSrEXqPhqRUQ.png">
