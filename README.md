@@ -1,12 +1,4 @@
 <div align="center">
-<pre>
-    🕵️ OSINT • 🌎 GIS • 
-    💻 Linux • Bash • 🐍 Python 
-    📖 Geography Major • 
-    🎸 Music • Movies/TV • 📺 Cartoons 
-    🐰 Art • 🍬 Sweet Tooth • Bird Lover 🐧
-</pre>
-<br><br>
 <img src="https://github.com/3ricVald3z/3ricVald3z/blob/main/patternbase-8-bit.gif" height="30%" width="30%"/>
 <br><br><br>
 
