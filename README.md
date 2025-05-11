@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/3ricVald3z/3ricVald3z/blob/main/patternbase-8-bit.gif" />
+<img src="https://github.com/3ricVald3z/3ricVald3z/blob/main/patternbase-8-bit.gif" height="50%" width="50%"/>
 <br><br>
  <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/gi4aeUe81XNSrEXqPhqRUQ.png">
