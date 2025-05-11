@@ -5,3 +5,9 @@
 <img border="0" src="https://wigle.net/bi/gi4aeUe81XNSrEXqPhqRUQ.png">
 </a>
 </div>
+
+<div>
+ <a href="https://www.instagram.com/animation_n_t00ns_4_u/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+ </a>
+</div>
