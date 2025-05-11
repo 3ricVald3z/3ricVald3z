@@ -4,5 +4,4 @@
  <a href="https://wigle.net">
 <img border="0" src="https://wigle.net/bi/gi4aeUe81XNSrEXqPhqRUQ.png">
 </a>
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </div>
