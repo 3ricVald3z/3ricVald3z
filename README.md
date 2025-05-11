@@ -10,7 +10,7 @@
     🐰 Art • 🍬 Sweet Tooth • Bird Lover 🐧
 </pre>
 <br><br>
-<img src="https://github.com/3ricVald3z/3ricVald3z/blob/main/patternbase-8-bit.gif" height="10%"/>
+<img src="https://github.com/3ricVald3z/3ricVald3z/blob/main/patternbase-8-bit.gif" height="5%"/>
 <br><br><br>
 
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/animation_n_t00ns_4_u)
