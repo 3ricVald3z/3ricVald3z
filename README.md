@@ -1,5 +1,4 @@
 <div align="center">
-<br><br>
 <pre>
     🕵️ OSINT • 🌎 GIS • 
     💻 Linux • Bash • 🐍 Python 
